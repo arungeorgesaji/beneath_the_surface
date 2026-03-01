@@ -46,6 +46,8 @@
     {"id":{"name":"level_3","path":"rooms/level_3/level_3.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"id":{"name":"bgm","path":"sounds/bgm/bgm.yy",},},
+    {"id":{"name":"coin","path":"sounds/coin/coin.yy",},},
+    {"id":{"name":"death_sound","path":"sounds/death_sound/death_sound.yy",},},
     {"id":{"name":"background_menu","path":"sprites/background_menu/background_menu.yy",},},
     {"id":{"name":"end_message_sprite","path":"sprites/end_message_sprite/end_message_sprite.yy",},},
     {"id":{"name":"intro_message_sprite","path":"sprites/intro_message_sprite/intro_message_sprite.yy",},},
